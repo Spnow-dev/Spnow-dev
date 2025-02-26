@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Spnow-dev
+- 👀 I’m interested in dev & Hardware
+- 🌱 I’m currently learning C
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm cool (that's not a fun fact but I don't care)
