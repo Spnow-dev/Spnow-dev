@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Spnow-dev
-- 👀 I’m interested in dev & Hardware
+## 👋 Hi, I'm @Spnow-dev!
+
+- 👀 I’m interested in dev, Hardware & content creation
 - 🌱 I’m currently learning C
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm cool (that's not a fun fact but I don't care)
-
-## 👋 Hi, I'm Spnow-dev!
-
-Passionate about development, automation, and content creation, I love exploring new technologies and sharing my projects! 🚀
 
 ---
 
@@ -22,8 +19,7 @@ Passionate about development, automation, and content creation, I love exploring
 ### 🚀 Recent Projects
 
 🔹 Comming soon... 
-🔹 ...
-🔹 ...
+
 
 ---
 
