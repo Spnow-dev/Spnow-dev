@@ -33,12 +33,23 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Spnow-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=Spnow-dev&color=blue&style=for-the-badge)
+
+
+
+
 ---
 
 ### 📫 Contact Me
 
 📌 [**My Website**](https://spnowstudio.wordpress.com)  
 💬 **Discord**: _(@spnotik)_  
+
+---
+
+### A quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
