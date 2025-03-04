@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Image](https://raw.githubusercontent.com/Spnow-dev/my-banner/main/Banni%C3%A8re%20GitHBu.jpg)" alt="Bannière" style="border-radius: 15px;">
+  <img src="https://github.com/Spnow-dev/my-banner/blob/main/banner_github_spnow.jpg?raw=true" alt="Bannière"">
 </p>
 
 ## 👋 Hi, I'm @Spnow-dev!
