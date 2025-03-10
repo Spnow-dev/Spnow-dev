@@ -75,8 +75,6 @@
 ### [Root Me]
 
 Coming soon...
-wwww
-
 ---
 
 ⭐ Feel free to follow and star my projects for more content! 🚀  
