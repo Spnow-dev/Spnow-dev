@@ -60,7 +60,7 @@
 ### 📫 Contact Me  
 
 📌 [**My Website**](https://spnowstudio.wordpress.com)  
-💬 **Discord**: _(@spnotik)_  
+💬 **Discord**: _(@spnow)_  
 
 ---
 
@@ -74,7 +74,8 @@
 
 ### [Root Me]
 
-Coming soon...
+_(Spnow)_
+
 ---
 
 ⭐ Feel free to follow and star my projects for more content! 🚀  
