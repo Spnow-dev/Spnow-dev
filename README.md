@@ -7,7 +7,8 @@
 - 👀 I’m interested in dev, Hardware & content creation  
 - 🌱 I’m currently learning C  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I'm cool (that's not a fun fact but I don't care)  
+- ⚡ Fun fact: I'm cool (that's not a fun fact but I don't care)
+- 🚀 I will start posting my projects again in December 2025!
 
 ---
 
@@ -59,7 +60,7 @@
 
 ### 📫 Contact Me  
 
-📌 [**My Website**](https://spnowstudio.wordpress.com)  
+📌 [**My Website**](https://spnowstudio.wordpress.com)  -> Temporarily down because I'm rebuilding it from scratch and looking for a good, inexpensive host.
 💬 **Discord**: _(@spnow)_  
 
 ---
