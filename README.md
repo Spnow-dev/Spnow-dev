@@ -64,7 +64,7 @@
 
 ---
 
-### A quote  
+### 🪶 A quote  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
@@ -72,7 +72,7 @@
 
 ---
 
-### [Root Me]
+### 💻 [Root Me]
 
 _(Spnow)_
 
