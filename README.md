@@ -4,11 +4,9 @@
 
 ## 👋 Hi, I'm @Spnow-dev!
 
-- 👀 I’m interested in dev, Hardware & content creation  
-- 🌱 I’m currently learning C  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I'm cool (that's not a fun fact but I don't care)
-- 🚀 I will start posting my projects again in December 2025 or just a little later!
+- 👀 I'm a french student who loves content creation, Cyber, Dev, Hardware, Video games and Cars!
+- 🌱 I’m currently learning C and Strudel REPL (but Strudel is hard asf)
+- 🚀 I will restart posting my projects again in December 2025 or just a little later!
 
 ---
 
@@ -62,7 +60,7 @@
 
 📌 [**My Website**](https://spnowstudio.wordpress.com)  -> Temporarily down because I'm rebuilding it from scratch and looking for a good, inexpensive host.
 
-💬 **Discord**: _(@spnow)_  
+💬 **Discord**: _@spnow_  
 
 ---
 
