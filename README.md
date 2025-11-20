@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning C  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I'm cool (that's not a fun fact but I don't care)
-- 🚀 I will start posting my projects again in December 2025!
+- 🚀 I will start posting my projects again in December 2025 or just a little later!
 
 ---
 
