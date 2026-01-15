@@ -5,8 +5,8 @@
 ## 👋 Hi, I'm @Spnow-dev!
 
 - 👀 I'm a french student who loves content creation, Cyber, Dev, Hardware, Video games and Cars!
-- 🌱 I’m currently learning C and Strudel REPL (but Strudel is hard asf)
-- 🚀 I will restart posting my projects again in December 2025 or just a little later!
+- 🌱 I’m currently learning C, JS, PHP and some Frameworks...
+- 🚀 I will restart posting my projects again in March 2026 or just a little later!
 
 ---
 
@@ -22,6 +22,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
