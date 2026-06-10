@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Spnow-dev/my-banner/blob/main/banner_github_spnow.jpg?raw=true" alt="Bannière"">
-</p>
+<!-- <p align="center"> <img src="https://github.com/Spnow-dev/my-banner/blob/main/banner_github_spnow.jpg?raw=true" alt="Bannière""> </p> -->
 
 ## 👋 Hi, I'm @Spnow-dev!
 
