@@ -4,7 +4,7 @@
 
 - 👀 I'm a french student who loves content creation, Cyber, Dev, Hardware, Video games and Cars!
 - 🌱 I’m currently learning C, JS, PHP and some Frameworks...
-- 🚀 I will restart posting my projects again in March 2026 or just a little later!
+- 🚀 I will restart posting my projects again in June 2026 or just a little later!
 
 ---
 
@@ -63,11 +63,11 @@
 
 ### 📫 Contact Me  
 
-📌 [**My Website**](https://spnowstudio.wordpress.com)  -> Temporarily down because I'm rebuilding it from scratch and looking for a good inexpensive host (i'm gonna probably do a portfolio).
+📌 [**My Website**]()  -> Temporarily down because I'm rebuilding it from scratch and looking for a good inexpensive host (i'm gonna probably do a portfolio).
 
 💬 **Discord**: _@spnow_  
 
-📨 **Mail**: (coming soon)
+📨 **Mail Pro**: (coming soon)
 
 ---
 
